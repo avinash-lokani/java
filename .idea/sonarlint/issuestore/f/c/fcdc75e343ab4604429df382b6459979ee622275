@@ -1,0 +1,7 @@
+
+5
+java:S1659"Declare "m" on a separate line.(ûŒ“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰šíÁ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–öÆ®ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çŒ„¬
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Î¤”Š
